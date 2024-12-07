@@ -1,3 +1,3 @@
-Pilih branch yang mau di edit / ditambahkan
-tiap halaman simpan di branch nya masing-masing
-jika belum ada, buat branch baru
+Pilih branch yang mau di edit / ditambahkan	<br>
+tiap halaman simpan di branch nya masing-masing	<br>
+jika belum ada, buat branch baru	
